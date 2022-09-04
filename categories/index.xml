@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stone Carter Studios</title>
-    <link>https://stonecarterstudios.github.io/categories/</link>
+    <link>https://stonecarterstudios.github.io/stonecarterstudios.com/categories/</link>
     <description>Recent content in Categories on Stone Carter Studios</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://stonecarterstudios.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://stonecarterstudios.github.io/stonecarterstudios.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
