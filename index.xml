@@ -12,8 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stonecarterstudios.github.io/stonecarterstudios.com/elements/</guid>
-      <description>Table of contents Table of contents Text Code Python C/C++ Bash Tables Text Some example text
-Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables Pages Elements 1 Text 2 Code 3 Tables </description>
+      <description>Table of contents Table of contents Introduction Code Python C/C++ Bash Tables Introduction Eris is a dark fantasy Massively Multiplayer Online Role Playing Game (MMORPG) with an emphasis on massive sieges.
+The game-play focuses on political alliances, feudal conquest and open world Player vs Player (PvP).
+Wars are entirely player-driven, and notable player characters could find themselves with much fame and influence over the game.
+Players have the freedom to play as they like – the leader of an independent merchant city state, a thief preying on the unaware, an assassin who kills for the thrill, a valiant knight who protects his homeland, a mercenary company captain who fights for gold or a warlord set on world domination.</description>
     </item>
     
   </channel>
